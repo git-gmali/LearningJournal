@@ -62,7 +62,8 @@ This is the part that actually determines whether the plan works.
 
 **Goal: set up so that Phase 1 has no friction.**
 
-- [ ] Set up the lab:
+- [ ] **Set up the lab** — step-by-step instructions, commands, and a day-by-day schedule are in
+      [13_Lab_Setup_Guide](13_Lab_Setup_Guide.md). In short:
   - API keys with billing: Anthropic (Claude), plus one of OpenAI/Google for comparison work
   - Local: `uv` for Python env, Ollama or LM Studio for local small models
   - A GPU path: Google Colab Pro, Modal, RunPod, or Lambda — pick one, get a hello-world job running

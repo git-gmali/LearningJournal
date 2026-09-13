@@ -55,6 +55,8 @@ choose later which one to take, from a position of leverage.
 | 10 | [Credentials & Resources](10_Credentials_And_Resources.md) | What's worth certifying, what isn't, and the reading/course library. |
 | 11 | [Positioning & Job Search](11_Positioning_And_Job_Search.md) | Resume surgery, LinkedIn, the interview loop for AI Director+, target company archetypes. |
 | 12 | [Progress Tracker](12_Progress_Tracker.md) | The checklist. Tick things. Review monthly. |
+| 13 | [Lab Setup Guide](13_Lab_Setup_Guide.md) | Step-by-step commands for Phase 0: API keys, Python env, local models, GPU access, code agent. Do this first, literally. |
+| 14 | [Glossary & Abbreviations](14_Glossary.md) | Every acronym and term used across all files, organized by topic, so you never have to break flow to search for one. |
 
 ---
 

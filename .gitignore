@@ -1,0 +1,14 @@
+# secrets
+.env
+.env.*
+*.pem
+*.key
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+GITIGNORE
